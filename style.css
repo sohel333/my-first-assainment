@@ -1,0 +1,194 @@
+.btn{
+  
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 7px;
+    border: 1px solid tomato;
+
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+   
+
+}
+.background-image {
+    background-image: url(images/15780741_1631238303845056_7786612275183237038_n.png);
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.help {
+    text-align: center;
+   padding-top: 195px;
+   
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.donate-today {
+    color: black;
+    text-align: center;
+}
+.Their-lives {
+    text-align: center;
+}
+h3 {
+    background-color: whitesmoke;
+    width: 70px;
+    height: 35px;
+    padding-top: 17px;
+padding-left: 9px;
+margin: 25px;
+}
+.taka {
+    display: flex;
+    margin-left: 185px;
+}
+.two-hundred {
+color: tomato;
+
+
+
+}
+
+
+.two {
+    border: 1px solid tomato;
+}
+.Other-Amount{
+    color: black;
+    text-align: center;
+}
+hr {
+    width: 50%;
+}
+.btnn {
+    padding-left: 46%;
+}
+.foodi {
+    color: black;
+    padding-left: 9px;
+}
+.food {
+    background-color: whitesmoke;
+    width: 29%;
+    margin-left: 25px;
+    border: 1px solid whitesmoke;
+    border-radius: 2px;
+    
+}
+.Shelter {
+    background-color: wheat;
+    width: 29%;
+    margin-left: 25px;
+    border: 1px solid wheat;
+    border-radius: 2px; 
+}
+.Education {
+    background-color: gainsboro;
+    width: 29%;
+    margin-left: 25px;
+    border: 1px solid gainsboro;
+    border-radius: 2px; 
+}
+.picture {
+    padding-top: 18px;
+    padding-left: 9px;
+}
+span {
+    color: khaki;
+}
+.basic-right {
+    display: flex;
+    margin-left: 50px;
+}
+h4 {
+    padding-left: 9px; 
+}
+.Their-live {
+ color: black;
+}
+.pic {
+    width: 390px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.your-donation {
+    display: flex;
+    margin-left: 75px;
+}
+.survive {
+    display: flex;
+}
+.need-us {
+    margin-left: 50px;
+}
+.updates {
+    color: #000;
+    text-align: center;
+}
+.mail {
+    background-color: wheat;
+    width: 170px;
+    border: 2px solid wheat;
+    border-radius: 2px;
+    padding-left: 5px;
+    
+}
+.subscribe {
+    background-color: tomato;
+    width: 80px;
+    border: 2px solid tomato;
+    border-radius: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+}
+.email {
+    display: flex;
+    margin-left: 35%;
+    padding-top: 40px;
+   
+    
+}
+.email-bg-color {
+    background-color: antiquewhite;
+    height: 100px;
+    margin-left: 67px;
+    margin-right: 67px;
+}
+.gmail {
+    height: 32px;
+    width: 255px;
+    border: 2px solid wheat;
+    background-color: wheat;
+}
+
+.foot {
+    text-align: center;
+    color: red;
+    padding-top: 15px;
+    font-family: 'Lobster', cursive;
+    font-size: 22px;
+}
+h6 {
+    text-align: center;
+    color: white;
+    font-size: 7px;
+}
+footer {
+    background-color: #000;
+    height: 115px;
+}
+.depend-donation {
+    margin-top: 75px;
+}
+
